@@ -1,4 +1,5 @@
 import React from "react";
+import {Link} from "react-router-dom"
 
 export const TodoCard= ({item})=>{
     // console.log("itemsss",item);
@@ -15,6 +16,7 @@ export const TodoCard= ({item})=>{
                 return <h3 key={ind}>{el}</h3>
             })}
         </div>
+        <Link to={`/create-todo/edit/${item.id}`} >Edit Status</Link>
         </div>
     )
 }

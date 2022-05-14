@@ -2,7 +2,7 @@ import { LOGIN_SUCCES, LOGIN_FAILURE,LOGOUT } from "./action";
 
 const initState = {
   isAuth: false,
-  token: "QpwL5tke4Pnpja7X4",
+  token: "",
 };
 // QpwL5tke4Pnpja7X4
 // eve.holt@reqres.in

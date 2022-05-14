@@ -11,7 +11,7 @@
       "title": "Go to bazaar",
       "description": "Buy vegetables",
       "date": "2022-05-15",
-      "todostatus": "todo",
+      "todostatus": "done",
       "id": 1
     },
     {
@@ -54,7 +54,7 @@
       "title": "Office",
       "description": "Meeting",
       "date": "2022-05-14",
-      "todostatus": "done",
+      "todostatus": "inprogress",
       "id": 4
     },
     {

@@ -5,7 +5,7 @@ import { Home } from "./components/sidebar/Home";
 function App() {
   return (
     <div className="App">
-      <h2>hello</h2>
+      <h2>Your Todo's</h2>
       <Home/>
       {/* <Routess/> */}
     </div>

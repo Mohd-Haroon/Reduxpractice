@@ -13,7 +13,7 @@ const rootReducer = combineReducers({
   todo: reducertodo,
 });
 const middleware1 = (store) => (next) => (action) => {
-  console.log("type of action is ", action);
+  // console.log("type of action is ", action);
   //if action is function invoke this
   if (typeof action === "function") {
     return action(store.dispatch);
