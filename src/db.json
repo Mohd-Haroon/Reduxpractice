@@ -1,0 +1,112 @@
+{
+  "todo": [
+    {
+      "todoofficial": false,
+      "todoothers": true,
+      "todopersonal": false,
+      "subarr": [
+        "buy potato",
+        "buy carrot"
+      ],
+      "title": "Go to bazaar",
+      "description": "Buy vegetables",
+      "date": "2022-05-15",
+      "todostatus": "todo",
+      "id": 1
+    },
+    {
+      "todoofficial": true,
+      "todoothers": false,
+      "todopersonal": false,
+      "subarr": [
+        "Complete Routes",
+        "Complete redux"
+      ],
+      "title": "Go to office",
+      "description": "React",
+      "date": "2022-05-16",
+      "todostatus": "inprogress",
+      "id": 2
+    },
+    {
+      "todoofficial": false,
+      "todoothers": false,
+      "todopersonal": true,
+      "subarr": [
+        "Eat Biryani",
+        "Eat pizza",
+        "take walk"
+      ],
+      "title": "go to park",
+      "description": "Enjoy",
+      "date": "2022-05-22",
+      "todostatus": "todo",
+      "id": 3
+    },
+    {
+      "todoofficial": true,
+      "todoothers": false,
+      "todopersonal": false,
+      "subarr": [
+        "Presentation of Guidelines",
+        "Presentation of App"
+      ],
+      "title": "Office",
+      "description": "Meeting",
+      "date": "2022-05-14",
+      "todostatus": "done",
+      "id": 4
+    },
+    {
+      "todoofficial": false,
+      "todoothers": true,
+      "todopersonal": true,
+      "subarr": [
+        "Push-ups",
+        "Run"
+      ],
+      "title": "exercise",
+      "description": "Stay healthy",
+      "date": "2022-05-15",
+      "todostatus": "done",
+      "id": 5
+    },
+    {
+      "todoofficial": false,
+      "todoothers": true,
+      "todopersonal": false,
+      "subarr": [
+        "a"
+      ],
+      "title": "a",
+      "description": "a",
+      "todostatus": "inprogress",
+      "date": "2022-05-15",
+      "id": 6
+    },
+    {
+      "todoofficial": true,
+      "todoothers": false,
+      "todopersonal": false,
+      "subarr": [],
+      "title": "b",
+      "description": "bb",
+      "date": "2022-05-03",
+      "todostatus": "done",
+      "id": 7
+    },
+    {
+      "todoofficial": false,
+      "todoothers": true,
+      "todopersonal": false,
+      "subarr": [
+        "zzzzz"
+      ],
+      "title": "zzzzz",
+      "description": "zzzzzz",
+      "date": "2022-05-14",
+      "todostatus": "done",
+      "id": 8
+    }
+  ]
+}
